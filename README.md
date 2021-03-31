@@ -8,7 +8,7 @@ How to use Max Pooling in Convolutional Neural Network(CNN)/Part of Deep Learnin
 &emsp;
    ###  Useful Terms
     Max Pooling
-    Activation Function - Relu
+    Activation Function - Relu, Sigmoid
     Keras API
     Convolutional2D Layers
     Sequantial, Dense Layers
