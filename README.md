@@ -1,3 +1,8 @@
+![MaxpoolSample2](https://user-images.githubusercontent.com/52565814/120275227-f5b03100-c2eb-11eb-8e56-411b395a1245.png)
+&emsp;
+&emsp;
+&emsp;
+&emsp;
 # Max-Pooling-in-Convolutional-Neural-Network-CNN-
 How to use Max Pooling in Convolutional Neural Network(CNN)/Part of Deep Learning
 
